@@ -10,17 +10,4 @@ Item {
 
 
   }
-  MultiResolutionImage {
-    id: rotor
-    source: "../../assets/img/rotor.png"
-    x: 178
-    y: 318
-  }
-
-  MovementAnimation {
-    target: rotor
-    property: "rotation"
-    velocity: 90
-    running: true
-  }
 }

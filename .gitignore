@@ -27,3 +27,4 @@ Makefile*
 
 *.autosave
 
+.DS_STORE
